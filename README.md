@@ -1,9 +1,16 @@
-# experiences-page
+<h1>Experiences Page</h1>
+<br>
 
-## Project setup
-```
-npm install
-```
+#### Setting up the environment
+
+Install NodeJS and NPM <br>
+ `download nodejs from https://nodejs.org/en/download/`
+<br><br>
+Checkout from version control <br>
+`git clone https://github.com/stefanijaristomanova/experiences-page.git`
+<br><br>
+Install dependencies <br>
+`npm install`
 
 ### Compiles and hot-reloads for development
 ```
@@ -20,5 +27,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
+ 
