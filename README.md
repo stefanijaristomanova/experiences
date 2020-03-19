@@ -7,7 +7,7 @@ Install NodeJS and NPM <br>
  `download nodejs from https://nodejs.org/en/download/`
 <br><br>
 Checkout from version control <br>
-`git clone https://github.com/stefanijaristomanova/experiences-page.git`
+`git clone https://github.com/stefanijaristomanova/experiences`
 <br><br>
 Install dependencies <br>
 `npm install`
