@@ -112,13 +112,11 @@
     }
 
     .search-wrapper {
-        margin-left: 50px;
         margin-top: 15px;
-        min-width: 250px;
     }
 
     .slider {
-        min-width: 78%;
+        min-width: 70%;
     }
 
     .text {
