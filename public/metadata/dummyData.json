@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Bad experience",
+    "desc": "Lorem Ipsum is simply dumm centuries, but also the leap into electronic typesetting, remaining essentially unchanged desc 1",
+    "category": "animals",
+    "price": 56
+  },
+  {
+    "id": 1,
+    "name": "Not so good experience",
+    "desc": "Lorem Ipsum is simply dumm centuries, but also the leap into electronic typesetting, remaining essentially unchanged desc 2",
+    "category": "sport",
+    "price": 1700
+  },
+  {
+    "id": 2,
+    "name": "Not so bad experience",
+    "desc": "Lorem Ipsum is simply dumm centuries, but also the leap into electronic typesetting, remaining essentially unchanged desc 3",
+    "category": "animals",
+    "price": 900
+  },
+  {
+    "id": 3,
+    "name": "Good experience",
+    "desc": "Lorem Ipsum is simply dumm centuries, but also the leap into electronic typesetting, remaining essentially unchanged desc 4",
+    "category": "brain games",
+    "price": 1070
+  },
+  {
+    "id": 4,
+    "name": "Best experience",
+    "desc": "Lorem Ipsum is simply dumm centuries, but also the leap into electronic typesetting, remaining essentially unchanged desc 5",
+    "category": "animals",
+    "price": 9500
+  }
+]
